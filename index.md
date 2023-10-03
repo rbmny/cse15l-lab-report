@@ -1,4 +1,4 @@
-#***OOH BIG LETTERS#***
+#*** OOH BIG LETTERS #***
 > Example 1
 > `Block Quotes`
 * Item 1
