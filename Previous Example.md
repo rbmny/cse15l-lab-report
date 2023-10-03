@@ -28,4 +28,4 @@
 2. Fluxo continua uma bagunça, pula pelas áreas
 3. Ferramentas atualizadas do dash não são utilizadas com a frequência que deveriam
 4. Tela de investidores no site manteve igual
-5. ![Image]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fthechive.com%2Fhumor%2Fperson-hilariously-photoshops-animals-onto-random-things-30-photos%2F&psig=AOvVaw0DqHUX_hm7U5raQKvWvuve&ust=1696443099134000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMjilZa92oEDFQAAAAAdAAAAABAD](https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/06/22210327/BE-Computer-Science-1600x1001.png)https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/06/22210327/BE-Computer-Science-1600x1001.png)
+5. ![Image](https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/06/22210327/BE-Computer-Science-1600x1001.png)
